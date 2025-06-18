@@ -1,0 +1,4 @@
+body {background-color: blue;}
+h1   {color: purple;}
+p    {color: red;}
+p    {border: 2x powderblue;}
